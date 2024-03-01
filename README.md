@@ -25,3 +25,5 @@ Be sure to conveniently divide the data set into ```train``` and ```test``` as w
 #### **Step 3: Save the processed dataset**
 
 After EDA you can save the data in the ```./data/processed``` folder. Make sure to add the data folder in the ```.gitignore```. The data as well as the models should not be uploaded to git.
+
+```NOTE:``` [Solution](https://github.com/4GeeksAcademy/data-preprocessing-project-tutorial/blob/main/solution.ipynb)
